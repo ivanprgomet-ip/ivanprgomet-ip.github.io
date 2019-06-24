@@ -1,0 +1,7 @@
+---
+title: "www.trygghansa.se"
+tagline: "agile driven feature development and maintenance"
+website: "https://www.trygghansa.se/"
+---
+
+Trygg-Hansa is a company owned by RSA, one of the world's largest non-life insurance companies, and offers comprehensive covers of non-life insurance for private persons and companies. The website is developed using [sharepoint](https://docs.microsoft.com/en-us/sharepoint/) and [wcf services](https://docs.microsoft.com/en-us/dotnet/framework/wcf/whats-wcf). The website and surrounding systems are maintained by multiple agila teams specializing on specific areas of the page. I am in a team that is mainly responsible for every customers specific "mypages" section.

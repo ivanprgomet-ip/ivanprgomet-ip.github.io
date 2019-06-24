@@ -1,0 +1,73 @@
+<div class="sidebar">
+  <div class="container left-align">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}/">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a> -->
+
+      {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+      {% if node.title != null %}
+      {% if node.layout == "page" %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+        href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+
+      {% endcomment %}
+
+      <!-- <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Blog</a> -->
+      <a class="sidebar-nav-tiem" href="{{ site.baseurl }}/">Home</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/about/">About</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/projects/">Projects</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/resume/">Resume</a>
+    </nav>
+
+    <footer>
+      <div>
+        <ul class="list-inline" id="sidebar-buttons">
+          <li>
+            <a href="mailto:ivanprgomet.ip@gmail.com" class="btn-social btn-outline" title="email">
+              <i class="fa fa-fw fa-at"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/ivanprgomet-ip" target="_blank" class="btn-social btn-outline" title="GitHub">
+              <i class="fa fa-fw fa-github"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/ivanprgomet.ip/" target="_blank" class="btn-social btn-outline"
+              title="instagram">
+              <i class="fa fa-fw fa-instagram"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/ivan-prgomet-b5706511a" target="_blank" class="btn-social btn-outline"
+              title="LinkedIn">
+              <i class="fa fa-fw fa-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+        <ul class="copyright">
+          <li>&copy; 2016 - 2019 ivanprgomet.com</li>
+          <li>All Rights Reserved</li>
+        </ul>
+      </div>
+    </footer>
+
+  </div>
+</div>
