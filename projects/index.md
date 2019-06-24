@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+description: Projects that i have been involved in one way or another. Developing, maintaining or planning.
 ---
 
 ## Web

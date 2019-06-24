@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: Read about my background and how I got myself started with programing in the first place.
 ---
 
 ## How it started

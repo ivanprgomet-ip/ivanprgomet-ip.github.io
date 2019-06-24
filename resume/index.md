@@ -2,6 +2,7 @@
 layout: page
 title: Resumé
 permalink: /resume/
+description: This is my resumé. Here you can see my programing skills, where i have worked, and where i have studied.
 ---
 
 ## Work Experience(s)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Developing for the Future!
-
+description: Welcome to my development portfolio. Let's talk about developing IT solutions for the future. For inquiries get in touch with me.
 ---
 
 ## Hi there
