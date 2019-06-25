@@ -5,7 +5,7 @@ description: Welcome to my development portfolio. Let's talk about developing IT
 ---
 
 ## Hi there
-I'm Ivan. Welcome to my personal site. Here you can find my projects amongst other things. If you have any inquiries or questions, or just wanna say hi, you are most welcome to [get in touch](mailto:{{ site.author.email }}) with me.
+I'm Ivan and im a software and web developer based in Malmö, Sweden. Welcome to my personal site. Here you can find my [projects](/projects/) and my [resumé](/resume/) amongst other things. If you have any inquiries or questions, or just wanna say hi, you are most welcome to [get in touch](mailto:{{ site.author.email }}) with me.
 
 ## Who am I
 A serious programmer with a sense of humor and an immense interest in web and software development. Fascinated about the world of information technologies. Passionate about creating and developing useful things with the help of coding technologies and frameworks. Wanna know more about me and how I got started with programming? [Check this out](/about/).
