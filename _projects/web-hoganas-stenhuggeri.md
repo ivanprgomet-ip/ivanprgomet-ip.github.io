@@ -1,7 +1,7 @@
 ---
 title: "www.stenotradgard.com"
 tagline: "website development"
-website: "http://stenotradgard.com"
+website: "http://hoganasstenhuggeri.se"
 ---
 
 Höganäs Stenhuggeri is a company in sweden specializing in restoring, designing and manufacturing gravestones.
