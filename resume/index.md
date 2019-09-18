@@ -26,4 +26,4 @@ description: This is my resumé. Here you can see my programing skills, where i 
 `C#`, `Javascript`, `MSSQL`
 
 ## Keyword(s)
-`asp.net`, `asp.net core`, `seo`, `cryptography`, `fiddler`, `css`, `git`, `tfs`, `wcf`, `wpf`, `winforms`, `nodejs`, `tdd`, `entity framework`, `solid principles`, `design patterns`, `windows services`, `networking`
+`asp.net`, `asp.net core`, `seo`, `cryptography`, `fiddler`, `css`, `git`, `tfs`, `wcf`, `wpf`, `winforms`, `nodejs`, `test driven development (tdd)`, `entity framework`, `solid principles`, `design patterns`, `windows services`, `networking`, `sharepoint`
