@@ -1,5 +1,5 @@
 ---
-title: "www.stenotradgard.com"
+title: "www.hoganasstenhuggeri.se"
 tagline: "website development"
 website: "http://hoganasstenhuggeri.se"
 ---
