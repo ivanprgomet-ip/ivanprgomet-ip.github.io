@@ -123,7 +123,7 @@ a.btn-outline:active {
 }
 
 .page-title {
-
+  padding-bottom: 1em;
 }
 
 /* overriding pooles style for margins */
