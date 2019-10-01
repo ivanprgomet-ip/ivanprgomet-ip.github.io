@@ -6,8 +6,8 @@ description: Projects that i have been involved in one way or another. Developin
 
 <div class="projects">
   {% for project in site.projects %}
-  <div class="project post">
-    <h2 class="project-title post-title">
+  <div>
+    <h2>
       <a href="{{ project.website }}">
         {{ project.title }}
       </a>
