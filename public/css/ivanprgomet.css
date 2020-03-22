@@ -375,3 +375,13 @@ footer .copyright {
   list-style: none;
   padding: 0;
 }
+
+.theme-base-custom .sidebar{
+  background: #7595b5;
+}
+.theme-base-custom .content a{
+  color: #7595b5;
+}
+.theme-base-custom #sidebar-buttons{
+  color: #7595b5;
+}
