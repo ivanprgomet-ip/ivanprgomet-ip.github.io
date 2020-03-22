@@ -1,0 +1,8 @@
+---
+title: "www.covstatistics.com"
+tagline: "Statistics overview of the Corona virus disease in different countries"
+website: "http://covstatistics.com/"
+date: 2010-09-15 14:40:45
+---
+
+Website showing country statistics for the current pandemic outbreak of the Corona virus disease (covid 19)
